@@ -223,3 +223,15 @@ import java.util.*;
 //             }
 //     }
 // }
+//factorial
+
+// public class Practice{
+//     public static void main(String args[]){
+//         int a = 10;
+//         int factor = 1;
+//         for(int i = a; i>=1; i-- ){
+//             factor = factor*i;
+//         }
+//         System.out.println(factor);
+//     }
+// }
